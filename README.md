@@ -49,6 +49,6 @@ This project is purely for educational purposes and is not affiliated with Amazo
 
 Clone the repository:
 
-git clone: https://saibaba483.github.io/Landing Page - Amazon Clone/
+git clone: https://saibaba483.github.io/Landing-Page---Amazon-Clone/
 
 Open index.html in your browser.
