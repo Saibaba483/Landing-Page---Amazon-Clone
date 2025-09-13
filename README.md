@@ -46,3 +46,9 @@ Adding JavaScript functionality for interactive features like dropdown menus or 
 Extending it into a full e-commerce clone with backend integration in the future.
 
 This project is purely for educational purposes and is not affiliated with Amazon.
+
+Clone the repository:
+
+git clone: https://saibaba483.github.io/Landing Page - Amazon Clone/
+
+Open index.html in your browser.
